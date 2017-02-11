@@ -10,6 +10,10 @@ How to use this:
 1. Clone the github repo.
 2. open aes_encryption.ino in Arduino
 3. Flash
+
+![conole output](https://github.com/kakopappa/arduino-esp8266-aes-encryption-with-nodejs/blob/master/iv-5-snap.png "Console")
+
+
 4. Copy the iv, encrypted data and replace the esp8266_msg, esp8266_iv in the javascript code below.
 
 
