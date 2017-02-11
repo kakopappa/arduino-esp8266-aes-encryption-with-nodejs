@@ -3,7 +3,9 @@
 This repo demostrates how to encypt your data using [AES](https://github.com/spaniakos/AES) and decrypt it using NodeJS crypto-js library.
 
 Complete article is here: (I am not the author)
-https://primalcortex.wordpress.com/2016/06/17/esp8266-logging-data-in-a-backend-aes-and-crypto-js/
+https://primalcortex.wordpress.com/2016/06/17/esp8266-logging-data-in-a-backend-aes-and-crypto-js/. 
+
+I have fixed few bugs related ESP8266 and combined it with AES and Base64
 
 How to use this:
 
