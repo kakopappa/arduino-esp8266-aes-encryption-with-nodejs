@@ -2,6 +2,9 @@
 
 This repo demostrates how to encypt your data using [AES](https://github.com/spaniakos/AES) and decrypt it using NodeJS crypto-js library.
 
+You can find the library version here
+https://github.com/kakopappa/arduino-esp8266-aes-lib
+
 Complete article is here: (I am not the author)
 https://primalcortex.wordpress.com/2016/06/17/esp8266-logging-data-in-a-backend-aes-and-crypto-js/. 
 
@@ -17,6 +20,7 @@ How to use this:
 
 
 4. Copy the iv, encrypted data and replace the esp8266_msg, esp8266_iv in the javascript code below.
+
 
 
 Here is the NodeJS Code.
