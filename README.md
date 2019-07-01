@@ -1,6 +1,7 @@
-"# arduino-esp8266-aes-encryption-with-nodejs" 
+# arduino-esp8266-aes-encryption-with-nodejs
 
-This repo demostrates how to encypt your data using [AES](https://github.com/spaniakos/AES) and decrypt it using NodeJS crypto-js library.
+This repo demostrates how to encypt your data using [AES](https://github.com/spaniakos/AES) and decrypt it using NodeJS crypto-js library. If you are looking for PHP port check see https://zeitwesentech.com/blog/?p=521 (I am not the author)
+
 
 You can find the library version here
 https://github.com/kakopappa/arduino-esp8266-aes-lib
@@ -48,3 +49,5 @@ var decoded_msg =     new Buffer( decoded_b64msg , 'base64').toString('ascii');
 
 console.log("Decryptedage: ", decoded_msg);
 ```
+
+
